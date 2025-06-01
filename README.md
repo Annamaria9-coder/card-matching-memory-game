@@ -5,7 +5,8 @@
 ![Top Language](https://img.shields.io/github/languages/top/Annamaria9-coder/card-matching-memory-game?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Annamaria9-coder/card-matching-memory-game?style=for-the-badge)
 
-> **A fun little browser game built to give your brain a boost. Flip the cards, find the pairs, and climb through 10 levels of matching magic.**
+> **A fun little browser game built to give your brain a boost. Flip the cards, find the pairs, and climb through 10 levels of matching.**
+> Created by Anna-maria and friends on Saturday 31st May 2025 
 > 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1dDFnYmpnb2t0Z3lkNjlyOGs5dTZmZ2tyM25ueWtnaWZybnRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/414sWpp5Fw6V35R55C/giphy.gif" width="300" alt="Game Demo" />
 
