@@ -1,8 +1,24 @@
 const gameBoard = document.getElementById("game-board");
 const message = document.getElementById("message");
+const quoteBox = document.getElementById("quote-box");
 
 let level = 1;
 let emojisBase = ['🐶','🐱','🐭','🦊','🐻','🐼','🐨','🐸','🐵','🐯','🦁','🐮','🦄','🐷','🐔','🐙','🦉','🦓','🦒','🐢'];
+let quotes = [
+
+  "“Your mind is your greatest strength.”",
+  "“Joy is found in small wins.”",
+  "“Keep going, everything you need will come to you.”",
+  "“Progress is progress, no matter how small.”",
+  "“Mistakes are proof that you’re trying.”",
+  "“Don’t rush the process. Trust it.”",
+  "“Every level has something to teach you.”",
+  "“Believe in the work you're doing.”",
+  "“Joy is found in small wins.”",
+  "“Stay curious. Stay kind.”",
+  "“You’re doing better than you think.”"
+];
+
 let emojis = [];
 let cards = [];
 let flippedCards = [];
@@ -12,7 +28,8 @@ startLevel(level);
 
 function startLevel(lvl) {
   message.textContent = `Level ${lvl}`;
-  const pairs = Math.min(lvl + 1, emojisBase.length); // level 1 = 2 pairs, level 2 = 3, ..., up to max
+  quoteBox.textContent = quotes[lvl - 1] || '';
+  const pairs = Math.min(lvl + 1, emojisBase.length);
   emojis = emojisBase.slice(0, pairs);
   cards = [...emojis, ...emojis];
   shuffle(cards);
@@ -68,13 +85,16 @@ function checkForMatch() {
     const allFlipped = document.querySelectorAll(".card.flipped").length;
     if (allFlipped === cards.length) {
       setTimeout(() => {
-        level++;
-        if (level > 10) {
-          message.textContent = "🎉 You finished all 10 levels! Refresh to play again.";
+        if (level < 10) {
+          message.textContent = `🎉 Congrats on finishing Level ${level}!`;
+          setTimeout(() => {
+            level++;
+            startLevel(level);
+          }, 1500);
         } else {
-          startLevel(level);
+          message.textContent = "🎉 You finished all 10 levels! Refresh to play again.";
         }
-      }, 800);
+      }, 500);
     }
 
   } else {
