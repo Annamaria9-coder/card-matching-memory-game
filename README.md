@@ -1,4 +1,4 @@
-# 🃏 Card Matching Memory Game
+# Card Matching Memory Game
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/github/license/Annamaria9-coder/card-matching-memory-game?style=for-the-badge)
@@ -12,7 +12,7 @@
 
 
 ---
-## 🌐 Live Preview
+## Live Preview
 
 🎮 Play the game here: [https://memorycardsgame25.netlify.app/](https://memorycardsgame25.netlify.app/)
 
@@ -21,24 +21,22 @@
 
 ---
 
-## 💡 About the Game
+## About the Game
 
 A simple fun memory cards game to boost your memory and focus with a clean design and smooth progression. No accounts, no scores, just pure focus and good vibes.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎯 **10 Levels** — each one gets a little harder
-- 💬 **Motivational Quotes** — new one every level
-- 🎉 **Congrats Messages** after each level
-- 🧠 **Boosts Focus & Memory**
-- 💻 **Responsive** — works on all screen sizes
+- **10 Levels** — each one gets a little harder
+- **Boosts Focus & Memory**
+- **Responsive** — works on all screen sizes
 - **Custom UI** — styled with care, not just default browser stuff
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > _More visuals soon! Feel free to clone and try it locally too._
 
@@ -48,7 +46,7 @@ A simple fun memory cards game to boost your memory and focus with a clean desig
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Built with:
 
@@ -60,7 +58,7 @@ No frameworks. No build tools. Just old-school, clean browser code.
 
 ---
 
-## 🚀 How to Run It Locally
+##  How to Run It Locally
 
 ```bash
 git clone https://github.com/Annamaria9-coder/card-matching-memory-game.git
