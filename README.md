@@ -7,13 +7,13 @@
 
 > **A fun little browser game built to give your brain a boost. Flip the cards, find the pairs, and climb through 10 levels of matching magic.**
 
-![Game Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRmeHZ4OGw4b2w0ZDV5ajJoNjUwYzB6d3ZyZWZld3FrYThnMWtxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Edu37m5K9T5o5joRJL/giphy.gif)
+![Game Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1dDFnYmpnb2t0Z3lkNjlyOGs5dTZmZ2tyM25ueWtnaWZybnRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/414sWpp5Fw6V35R55C/giphy.gif)
 
 ---
 
 ## 🌐 Live Preview
 
-🎮 Play the game here: [https://annamaria9-coder.github.io/card-matching-memory-game](https://annamaria9-coder.github.io/card-matching-memory-game)
+🎮 Play the game here: [https://memorycardsgame25.netlify.app/](https://memorycardsgame25.netlify.app/)
 
 ---
 
