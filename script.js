@@ -2,7 +2,7 @@ const gameBoard = document.getElementById("game-board");
 const message = document.getElementById("message");
 
 let level = 1;
-let emojisBase = ['🐶','🐱','🐭','🦊','🐻','🐼','🐨','🐸','🐵','🐯','🦁','🐮'];
+let emojisBase = ['🐶','🐱','🐭','🦊','🐻','🐼','🐨','🐸','🐵','🐯','🦁','🐮','🦄','🐷','🐔','🐙','🦉','🦓','🦒','🐢'];
 let emojis = [];
 let cards = [];
 let flippedCards = [];
@@ -12,7 +12,8 @@ startLevel(level);
 
 function startLevel(lvl) {
   message.textContent = `Level ${lvl}`;
-  emojis = emojisBase.slice(0, lvl * 2); // each level has more pairs
+  const pairs = Math.min(lvl + 1, emojisBase.length); // level 1 = 2 pairs, level 2 = 3, ..., up to max
+  emojis = emojisBase.slice(0, pairs);
   cards = [...emojis, ...emojis];
   shuffle(cards);
   resetBoard();
@@ -64,13 +65,12 @@ function checkForMatch() {
     flippedCards = [];
     lockBoard = false;
 
-    // check if all cards are matched
     const allFlipped = document.querySelectorAll(".card.flipped").length;
     if (allFlipped === cards.length) {
       setTimeout(() => {
         level++;
-        if (level > 3) {
-          message.textContent = "🎉 You finished all levels! Refresh to play again.";
+        if (level > 10) {
+          message.textContent = "🎉 You finished all 10 levels! Refresh to play again.";
         } else {
           startLevel(level);
         }
