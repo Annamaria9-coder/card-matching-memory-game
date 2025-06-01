@@ -8,11 +8,11 @@
 > **A fun little browser game built to give your brain a boost. Flip the cards, find the pairs, and climb through 10 levels of matching magic.**
 > 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1dDFnYmpnb2t0Z3lkNjlyOGs5dTZmZ2tyM25ueWtnaWZybnRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/414sWpp5Fw6V35R55C/giphy.gif" width="300" alt="Game Demo" />
-![Game Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1dDFnYmpnb2t0Z3lkNjlyOGs5dTZmZ2tyM25ueWtnaWZybnRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/414sWpp5Fw6V35R55C/giphy.gif)
+
+![Game Demo](<img width="511" alt="image" src="https://github.com/user-attachments/assets/0ae5c4ce-8911-4cc4-8620-9561d1ed74e0" />
+)
 
 ---
-<img width="511" alt="image" src="https://github.com/user-attachments/assets/0ae5c4ce-8911-4cc4-8620-9561d1ed74e0" />
-
 ## 🌐 Live Preview
 
 🎮 Play the game here: [https://memorycardsgame25.netlify.app/](https://memorycardsgame25.netlify.app/)
