@@ -22,8 +22,7 @@
 
 ## 💡 About the Game
 
-This project was built by **Anna Maria** on **May 31st, 2025**, during a chill weekend with friends — just for fun and learning.  
-It's a simple memory game with clean design, motivating quotes, and smooth progression. No accounts, no scores, just pure focus and good vibes.
+A simple fun memory cards game to boost your memory and focus with a clean design and smooth progression. No accounts, no scores, just pure focus and good vibes.
 
 ---
 
@@ -31,11 +30,10 @@ It's a simple memory game with clean design, motivating quotes, and smooth progr
 
 - 🎯 **10 Levels** — each one gets a little harder
 - 💬 **Motivational Quotes** — new one every level
-- 💚 **Space Mono Font** — clean, modern, hacker-ish
 - 🎉 **Congrats Messages** after each level
 - 🧠 **Boosts Focus & Memory**
 - 💻 **Responsive** — works on all screen sizes
-- 🌈**Custom UI** — styled with care, not just default browser stuff
+- **Custom UI** — styled with care, not just default browser stuff
 
 ---
 
