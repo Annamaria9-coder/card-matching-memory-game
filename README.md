@@ -16,7 +16,7 @@
 
 🎮 Play the game here: [https://memorycardsgame25.netlify.app/](https://memorycardsgame25.netlify.app/)
 
-<img width="507" alt="image" src="https://github.com/user-attachments/assets/551b7907-d903-46af-9069-2f33f887a009" />
+<img width="1102" alt="image" src="https://github.com/user-attachments/assets/c9192b5d-b145-4075-9dd4-681dcbb4fc57" />
 
 
 ---
