@@ -9,8 +9,7 @@
 > 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1dDFnYmpnb2t0Z3lkNjlyOGs5dTZmZ2tyM25ueWtnaWZybnRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/414sWpp5Fw6V35R55C/giphy.gif" width="300" alt="Game Demo" />
 
-![Game Demo](<img width="511" alt="image" src="https://github.com/user-attachments/assets/0ae5c4ce-8911-4cc4-8620-9561d1ed74e0" />
-)
+![Game Demo](<img width="507" alt="image" src="https://github.com/user-attachments/assets/92789f8c-9c67-475e-a804-d832aa417a21" />)
 
 ---
 ## 🌐 Live Preview
